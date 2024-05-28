@@ -1,1 +1,1 @@
-[![Aiday's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiday-mar&theme=vue&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/aiday-mar/github-readme-stats)
+[![Aiday's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiday-mar&theme=vue&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true)](https://github.com/aiday-mar/github-readme-stats)
